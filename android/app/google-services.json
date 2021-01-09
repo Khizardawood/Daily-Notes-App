@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670163469757",
+    "project_id": "note-take-app",
+    "storage_bucket": "note-take-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670163469757:android:09cb55b9bad43ecbe73ed4",
+        "android_client_info": {
+          "package_name": "com.umair.my_notes_taking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670163469757-73s95qtngrmqp7i8k3c1f2snrtrva7sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr6r0EcyMCPs7tfl4UJoQ6yVl6YOUgZL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670163469757-73s95qtngrmqp7i8k3c1f2snrtrva7sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
